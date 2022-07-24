@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Java-fsd&apos;" deleteContents="true" description="Delete resource &apos;Java-fsd&apos;" element1="/Java-fsd" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1658654094721"/>
+</session>
